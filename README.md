@@ -1,2 +1,2 @@
-# sample-shoe-images-ShoeHype
-THIS REPOSITORY CONTAINS SAMPLE SHOE IMAGES FOR MY SHOE HYPE PROJECT.
+## Sample images
+This repository contains sample shoe images for Shoe Hype project.
